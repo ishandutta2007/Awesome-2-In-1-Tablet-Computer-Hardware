@@ -67,52 +67,52 @@ The table below compares top commercial 2-in-1 tablet hardware platforms, **sort
 
 The open-source community provides custom kernels, input daemons, desktop gestures, and stylus applications that transform 2-in-1 hardware into powerful touch-first Linux workstations.
 
-Below, all open-source repositories are **sorted in descending order by GitHub Star Count** within their respective functional categories. Each repository badge links directly to its **stargazers page**.
+Below, all open-source repositories are **sorted in descending order by GitHub Stars_Count** within their respective functional categories. Each repository badge links directly to its **stargazers page**.
 
 ### 🐧 Surface Linux & Touchscreen Drivers
 
-| Repository | GitHub Stars | Description |
+| Repository | GitHub_Stars | Description |
 | :--- | :--- | :--- |
-| **[linux-surface/linux-surface](https://github.com/linux-surface/linux-surface)** | [![GitHub stars](https://img.shields.io/github/stars/linux-surface/linux-surface?style=social)](https://github.com/linux-surface/linux-surface/stargazers) | **The essential Linux kernel & driver suite** for Microsoft Surface devices. Enables touchscreen, pen digitizers, detachable keyboards, power/thermal management, and Wi-Fi across Surface Pro 3–11. |
-| **[linux-surface/iptsd](https://github.com/linux-surface/iptsd)** | [![GitHub stars](https://img.shields.io/github/stars/linux-surface/iptsd?style=social)](https://github.com/linux-surface/iptsd/stargazers) | User-space daemon for Intel Precise Touch & Stylus (IPTS) on Microsoft Surface tablets, processing raw touch and pen pressure data. |
-| **[shalin-dev/surface-pro-6-arch-gnome](https://github.com/shalin-dev/surface-pro-6-arch-gnome)** | [![GitHub stars](https://img.shields.io/github/stars/shalin-dev/surface-pro-6-arch-gnome?style=social)](https://github.com/shalin-dev/surface-pro-6-arch-gnome/stargazers) | Automated setup scripts to turn Surface Pro 6 into an iPad-like touch Linux tablet running Arch Linux + GNOME + Touchégg + Maliit. |
-| **[dwhinham/archiso-aarch64-sp11](https://github.com/dwhinham/archiso-aarch64-sp11)** | [![GitHub stars](https://img.shields.io/github/stars/dwhinham/archiso-aarch64-sp11?style=social)](https://github.com/dwhinham/archiso-aarch64-sp11/stargazers) | Arch Linux porting & ISO generation project tailored for ARM Snapdragon X Elite/Plus Surface Pro 11 tablets. |
+| **[linux-surface/linux-surface](https://github.com/linux-surface/linux-surface)** | [![GitHub_Stars](https://img.shields.io/github/stars/linux-surface/linux-surface?style=social)](https://github.com/linux-surface/linux-surface/stargazers) | **The essential Linux kernel & driver suite** for Microsoft Surface devices. Enables touchscreen, pen digitizers, detachable keyboards, power/thermal management, and Wi-Fi across Surface Pro 3–11. |
+| **[linux-surface/iptsd](https://github.com/linux-surface/iptsd)** | [![GitHub_Stars](https://img.shields.io/github/stars/linux-surface/iptsd?style=social)](https://github.com/linux-surface/iptsd/stargazers) | User-space daemon for Intel Precise Touch & Stylus (IPTS) on Microsoft Surface tablets, processing raw touch and pen pressure data. |
+| **[shalin-dev/surface-pro-6-arch-gnome](https://github.com/shalin-dev/surface-pro-6-arch-gnome)** | [![GitHub_Stars](https://img.shields.io/github/stars/shalin-dev/surface-pro-6-arch-gnome?style=social)](https://github.com/shalin-dev/surface-pro-6-arch-gnome/stargazers) | Automated setup scripts to turn Surface Pro 6 into an iPad-like touch Linux tablet running Arch Linux + GNOME + Touchégg + Maliit. |
+| **[dwhinham/archiso-aarch64-sp11](https://github.com/dwhinham/archiso-aarch64-sp11)** | [![GitHub_Stars](https://img.shields.io/github/stars/dwhinham/archiso-aarch64-sp11?style=social)](https://github.com/dwhinham/archiso-aarch64-sp11/stargazers) | Arch Linux porting & ISO generation project tailored for ARM Snapdragon X Elite/Plus Surface Pro 11 tablets. |
 
 ### 📝 Stylus Note-Taking & Annotation Apps
 
-| Repository | GitHub Stars | Description |
+| Repository | GitHub_Stars | Description |
 | :--- | :--- | :--- |
-| **[xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)** | [![GitHub stars](https://img.shields.io/github/stars/xournalpp/xournalpp?style=social)](https://github.com/xournalpp/xournalpp/stargazers) | **The premier open-source handwriting & PDF annotation app**. Features pressure sensitivity, Wacom/MPP/Apple Pencil support, LaTeX math rendering, audio recording, and grid templates. |
-| **[flxzt/rnote](https://github.com/flxzt/rnote)** | [![GitHub stars](https://img.shields.io/github/stars/flxzt/rnote?style=social)](https://github.com/flxzt/rnote/stargazers) | Modern vector-based drawing and note-taking application written in Rust and GTK4. Supports infinite canvas, pressure sensitivity, shape recognition, and PDF export. |
-| **[LinwoodCloud/Butterfly](https://github.com/LinwoodCloud/Butterfly)** | [![GitHub stars](https://img.shields.io/github/stars/LinwoodCloud/Butterfly?style=social)](https://github.com/LinwoodCloud/Butterfly/stargazers) | Cross-platform infinite canvas note-taking app with full stylus support, dark mode, and page background templates. |
-| **[saber-notes/saber](https://github.com/saber-notes/saber)** | [![GitHub stars](https://img.shields.io/github/stars/saber-notes/saber?style=social)](https://github.com/saber-notes/saber/stargazers) | Hand-written note-taking app designed for tablets and convertible laptops, featuring automatic sync, pen pressure, and shape tools. |
-| **[styluslabs/write](https://github.com/styluslabs/write)** | [![GitHub stars](https://img.shields.io/github/stars/styluslabs/write?style=social)](https://github.com/styluslabs/write/stargazers) | Distraction-free vector handwriting software with smooth line rendering, auto-reflow, and bookmarking. |
+| **[xournalpp/xournalpp](https://github.com/xournalpp/xournalpp)** | [![GitHub_Stars](https://img.shields.io/github/stars/xournalpp/xournalpp?style=social)](https://github.com/xournalpp/xournalpp/stargazers) | **The premier open-source handwriting & PDF annotation app**. Features pressure sensitivity, Wacom/MPP/Apple Pencil support, LaTeX math rendering, audio recording, and grid templates. |
+| **[flxzt/rnote](https://github.com/flxzt/rnote)** | [![GitHub_Stars](https://img.shields.io/github/stars/flxzt/rnote?style=social)](https://github.com/flxzt/rnote/stargazers) | Modern vector-based drawing and note-taking application written in Rust and GTK4. Supports infinite canvas, pressure sensitivity, shape recognition, and PDF export. |
+| **[LinwoodCloud/Butterfly](https://github.com/LinwoodCloud/Butterfly)** | [![GitHub_Stars](https://img.shields.io/github/stars/LinwoodCloud/Butterfly?style=social)](https://github.com/LinwoodCloud/Butterfly/stargazers) | Cross-platform infinite canvas note-taking app with full stylus support, dark mode, and page background templates. |
+| **[saber-notes/saber](https://github.com/saber-notes/saber)** | [![GitHub_Stars](https://img.shields.io/github/stars/saber-notes/saber?style=social)](https://github.com/saber-notes/saber/stargazers) | Hand-written note-taking app designed for tablets and convertible laptops, featuring automatic sync, pen pressure, and shape tools. |
+| **[styluslabs/write](https://github.com/styluslabs/write)** | [![GitHub_Stars](https://img.shields.io/github/stars/styluslabs/write?style=social)](https://github.com/styluslabs/write/stargazers) | Distraction-free vector handwriting software with smooth line rendering, auto-reflow, and bookmarking. |
 
 ### 🎨 Professional Digital Painting & Vector Graphics
 
-| Repository | GitHub Stars | Description |
+| Repository | GitHub_Stars | Description |
 | :--- | :--- | :--- |
-| **[johnfactotum/foliate](https://github.com/johnfactotum/foliate)** | [![GitHub stars](https://img.shields.io/github/stars/johnfactotum/foliate?style=social)](https://github.com/johnfactotum/foliate/stargazers) | Feature-rich e-book reader optimized for touchscreens, offering swipe gestures, annotations, dictionary lookup, and text-to-speech. |
-| **[KDE/krita](https://github.com/KDE/krita)** | [![GitHub stars](https://img.shields.io/github/stars/KDE/krita?style=social)](https://github.com/KDE/krita/stargazers) | Professional open-source digital painting, sketching, and illustration application with 100+ brushes, pen stabilization, and touch gesture support. |
+| **[johnfactotum/foliate](https://github.com/johnfactotum/foliate)** | [![GitHub_Stars](https://img.shields.io/github/stars/johnfactotum/foliate?style=social)](https://github.com/johnfactotum/foliate/stargazers) | Feature-rich e-book reader optimized for touchscreens, offering swipe gestures, annotations, dictionary lookup, and text-to-speech. |
+| **[KDE/krita](https://github.com/KDE/krita)** | [![GitHub_Stars](https://img.shields.io/github/stars/KDE/krita?style=social)](https://github.com/KDE/krita/stargazers) | Professional open-source digital painting, sketching, and illustration application with 100+ brushes, pen stabilization, and touch gesture support. |
 
 ### 🤖 Android Subsystem & Linux Emulation
 
-| Repository | GitHub Stars | Description |
+| Repository | GitHub_Stars | Description |
 | :--- | :--- | :--- |
-| **[waydroid/waydroid](https://github.com/waydroid/waydroid)** | [![GitHub stars](https://img.shields.io/github/stars/waydroid/waydroid?style=social)](https://github.com/waydroid/waydroid/stargazers) | Container-based approach to run a full Android OS inside LXC on Linux tablets with native multi-touch GPU acceleration. |
+| **[waydroid/waydroid](https://github.com/waydroid/waydroid)** | [![GitHub_Stars](https://img.shields.io/github/stars/waydroid/waydroid?style=social)](https://github.com/waydroid/waydroid/stargazers) | Container-based approach to run a full Android OS inside LXC on Linux tablets with native multi-touch GPU acceleration. |
 
 ### 🖥️ Touch-Optimized Desktop Environments & On-Screen Keyboards
 
-| Repository | GitHub Stars | Description |
+| Repository | GitHub_Stars | Description |
 | :--- | :--- | :--- |
-| **[touchegg/touchegg](https://github.com/touchegg/touchegg)** | [![GitHub stars](https://img.shields.io/github/stars/touchegg/touchegg?style=social)](https://github.com/touchegg/touchegg/stargazers) | Multi-touch gesture recognizer for Linux desktop environments (swipe to switch workspaces, pinch to zoom, tap to click). |
-| **[maliit/keyboard](https://github.com/maliit/keyboard)** | [![GitHub stars](https://img.shields.io/github/stars/maliit/keyboard?style=social)](https://github.com/maliit/keyboard/stargazers) | Core touch-first virtual on-screen keyboard for Wayland, KDE Plasma, and GNOME environments. |
+| **[touchegg/touchegg](https://github.com/touchegg/touchegg)** | [![GitHub_Stars](https://img.shields.io/github/stars/touchegg/touchegg?style=social)](https://github.com/touchegg/touchegg/stargazers) | Multi-touch gesture recognizer for Linux desktop environments (swipe to switch workspaces, pinch to zoom, tap to click). |
+| **[maliit/keyboard](https://github.com/maliit/keyboard)** | [![GitHub_Stars](https://img.shields.io/github/stars/maliit/keyboard?style=social)](https://github.com/maliit/keyboard/stargazers) | Core touch-first virtual on-screen keyboard for Wayland, KDE Plasma, and GNOME environments. |
 
 ### 🛠️ Hardware Maintenance & Diagnostics
 
-| Repository | GitHub Stars | Description |
+| Repository | GitHub_Stars | Description |
 | :--- | :--- | :--- |
-| **[OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView)** | [![GitHub stars](https://img.shields.io/github/stars/OpenBoardView/OpenBoardView?style=social)](https://github.com/OpenBoardView/OpenBoardView/stargazers) | Open-source boardview file viewer for hardware repair enthusiasts, used to inspect motherboard circuit traces on Surface and iPad devices. |
+| **[OpenBoardView/OpenBoardView](https://github.com/OpenBoardView/OpenBoardView)** | [![GitHub_Stars](https://img.shields.io/github/stars/OpenBoardView/OpenBoardView?style=social)](https://github.com/OpenBoardView/OpenBoardView/stargazers) | Open-source boardview file viewer for hardware repair enthusiasts, used to inspect motherboard circuit traces on Surface and iPad devices. |
 
 ---
 
@@ -122,7 +122,7 @@ We welcome contributions from hardware owners, Linux kernel hackers, and note-ta
 
 1. 🍴 **Fork** this repository.
 2. ✏️ **Edit** `README.md` to add new commercial 2-in-1 hardware platforms or open-source tablet projects.
-3. 🏷️ Ensure all open-source entries include a valid GitHub star badge pointing to `https://github.com/owner/repo/stargazers`.
+3. 🏷️ Ensure all open-source entries include a valid GitHub Stars_Badge pointing to `https://github.com/owner/repo/stargazers`.
 4. 🚀 Submit a **Pull Request** with a detailed explanation of your addition.
 
 Refer to [https://github.com/ishandutta2007/Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
